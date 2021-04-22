@@ -1,2 +1,2 @@
 config:
-  info: "test cloud config prod server data"
+  info: "test cloud config prod server data,version = 1"
